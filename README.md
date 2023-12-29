@@ -1,7 +1,6 @@
 ## Bem vindo ao meu repositorio 
  <div>
   <a href="https://github.com/Douglas16180">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas16180&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas16180&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
